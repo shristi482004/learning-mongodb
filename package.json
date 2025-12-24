@@ -1,0 +1,25 @@
+{
+  "name": "backend-learning-2.0",
+  "version": "1.0.0",
+  "description": "This is my repo for learning backend.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shristi482004/backend-learning-2.0.git"
+  },
+  "keywords": [],
+  "author": "Shristi",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/shristi482004/backend-learning-2.0/issues"
+  },
+  "homepage": "https://github.com/shristi482004/backend-learning-2.0#readme",
+  "dependencies": {
+    "express": "^5.2.1",
+    "mongoose": "^9.0.2"
+  }
+}
