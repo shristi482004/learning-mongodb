@@ -1,18 +1,16 @@
-Here is the clean Markdown code. You can copy this directly into your `README.md` file.
 
-```markdown
 # MongoDB & Node.js Fundamentals
 
 A foundational guide and starter repository for mastering **CRUD operations** (Create, Read, Update, Delete) using MongoDB and Node.js. This project focuses on the core mechanics of data persistence in a NoSQL environment.
 
 ---
 
-## 🏗 Project Structure
+##  Project Structure
 ![Project Structure](https://github.com/user-attachments/assets/64b4c8f7-c526-42de-a43d-8cd9c6da3241)
 
 ---
 
-## 🛠 Database Architecture: SQL vs NoSQL
+##  Database Architecture: SQL vs NoSQL
 MongoDB uses a flexible, document-based structure rather than the rigid tables found in SQL.
 
 | SQL Term | MongoDB Equivalent | Description |
